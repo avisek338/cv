@@ -1,19 +1,27 @@
 body{
    text-align: center;
-   font-family: 'Montserrat', sans-serif
+   font-family: 'Montserrat', sans-serif;
 }
 h1{
    font-family: 'Sacramento', cursive;
+   color: #66bfbf;
+   line-height: 100%;
 }
 h3{
-   font-family: 'Montserrat', sans-serif
+   font-family: 'Montserrat', sans-serif;
+   color:#11999E;
+   
 }
 h2{
-   font-family: 'Montserrat', sans-serif
+   font-family: 'Montserrat', sans-serif;
+   color:#66bfbf;
+   font-weight:500;
+    
 }
 .top-container{
    background-color: #E4F9F5;
   padding-top: 12%;
+  
    
 }
 
@@ -21,7 +29,7 @@ body{
    margin: 0%;
 }
 h1{
-   margin: 0%;
+  margin-top: 0%;
 }
 p{
    margin-bottom: 0%;
@@ -38,4 +46,50 @@ p{
 }
 .images{
    border-radius: 40px;
+}
+a{
+   color:#11999E;
+}
+.header2{
+   font-size:large;
+}
+.header1{
+   font-size:350%;
+}
+.skill-row{
+    width: 50%;
+   margin: 70px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.game-image{
+   width: 20%;
+   float: right;
+   margin-right: 30px;
+}
+.code-image{
+   width: 25%;
+   float: left;
+  margin-right: 30px;
+  
+}
+.bottom-container{
+   background:#66bfbf;
+   margin-bottom: 30px;
+   
+}
+.footer-link{
+   color:#11999E;
+   font-weight:800;
+}
+.contact-me{
+ 
+ color:#11999E;
+ font-weight: 700;
+ border-radius: 8;
+}
+.copyright{
+   color: #EAF6F6;
+   font-weight:500;
+  
 }
