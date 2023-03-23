@@ -1,81 +1,95 @@
-#title{
-   background-color:#ff4c68;
-   
-}
-
-h1{
-   font-family: 'Montserrat-black', sans-serif;
-   color: white;
-   font-weight:800;
-   size: 3rem;
-   line-height: 1.5;
-   padding-bottom: 3%;
-   padding-top: 6%;
-}
-.container-fluid{
- padding: 3% 15%;
-}
 body{
-   font-family:'Montserrat-black', sans-serif; 
-}
-.navbar-brand{
-   font-family: "ubuntu";
-   font-size: 2.5rem;
-}
-.nav-link{
-   font-size: 1.2rem;
-   padding-bottom:4%;
-}
-.title-image{
-   padding-top: 4%;
-   padding-left: 4%;
-   width: 60%;
-   transform: rotate(25deg);
-}
-#features{
-   padding:7% 15%;
-}
-.feature-box{
    text-align: center;
-  padding-left: 5%;
-  padding-right: 5%;
+   font-family: 'Montserrat', sans-serif;
+}
+h1{
+   font-family: 'Sacramento', cursive;
+   color: #66bfbf;
+   line-height: 100%;
 }
 h3{
-   
-   font-weight: 700;
-}
-p{
-   color: gray;
-}
-.icon{
-   color:#ef8172;
-   padding-bottom: 3%;
-}
-.icon:hover{
-   color: #ff4c68;
-}
-#testimonials{
-   padding: 5% 12%;
-   text-align: center;
-  background-color: #ef8172;
-  color: white;
+   font-family: 'Montserrat', sans-serif;
+   color:#11999E;
    
 }
 h2{
-   font-weight: 800;
-   padding: 0% 10% 0% 10%;
+   font-family: 'Montserrat', sans-serif;
+   color:#66bfbf;
+   font-weight:500;
+    
 }
-.testimonial-image{
-   width: 7%;
-   border-radius: 60%;
-  margin: 20px;
-}
-#press{
-   background-color: #ef8172;
-   text-align: center;
-   padding-bottom: 4.85%;
+.top-container{
+   background-color: #E4F9F5;
+  padding-top: 12%;
+  
    
 }
-.press-image{
-   width:14%;
+
+body{
+   margin: 0%;
+}
+h1{
+  margin-top: 0%;
+}
+p{
+   margin-bottom: 0%;
+}
+.bottom-cloud{
+   position: absolute;
+   left:20%;
+   bottom:40%;
+}
+.top-cloud{
+   position: absolute;
+   right: 25%;
+   top: 20%;
+}
+.images{
+   border-radius: 40px;
+}
+a{
+   color:#11999E;
+}
+.header2{
+   font-size:large;
+}
+.header1{
+   font-size:350%;
+}
+.skill-row{
+    width: 50%;
+   margin: 70px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.game-image{
+   width: 20%;
+   float: right;
+   margin-right: 30px;
+}
+.code-image{
+   width: 25%;
+   float: left;
+  margin-right: 30px;
+  
+}
+.bottom-container{
+   background:#66bfbf;
+   margin-bottom: 30px;
+   
+}
+.footer-link{
+   color:#11999E;
+   font-weight:800;
+}
+.contact-me{
+ 
+ color:#11999E;
+ font-weight: 700;
+ border-radius: 8;
+}
+.copyright{
+   color: #EAF6F6;
+   font-weight:500;
+  
 }
